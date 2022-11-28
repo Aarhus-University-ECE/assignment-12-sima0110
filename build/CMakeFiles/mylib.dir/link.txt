@@ -1,0 +1,2 @@
+C:\MinGW\msys\1.0\mingw64\bin\ar.exe qc libmylib.a CMakeFiles/mylib.dir/src/duration.cpp.obj
+C:\MinGW\msys\1.0\mingw64\bin\ranlib.exe libmylib.a
